@@ -13,8 +13,8 @@ Python 2.7
 
 Packages (all available using pip install)
 
-BooleanNet\n
-libsbml\n
-cobra\n
-matplotlib\n
-pandas\n
+- BooleanNet
+- libsbml
+- cobra\n
+- matplotlib\n
+- pandas\n

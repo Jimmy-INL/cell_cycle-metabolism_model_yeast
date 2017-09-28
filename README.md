@@ -15,6 +15,6 @@ Packages (all available using pip install)
 
 - BooleanNet
 - libsbml
-- cobra\n
-- matplotlib\n
-- pandas\n
+- cobra
+- matplotlib
+- pandas

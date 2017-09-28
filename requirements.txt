@@ -1,4 +1,4 @@
-BooleanNet==1.2.8
+#BooleanNet==1.2.8
 python-libsbml
 cobra
 matplotlib

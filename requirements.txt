@@ -1,3 +1,4 @@
+ply
 git+https://github.com/joelostblom/booleannet3.git
 python-libsbml
 cobra

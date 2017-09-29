@@ -3,4 +3,4 @@ python-libsbml
 cobra
 matplotlib
 pandas
-git+https://github.com/joelostblom/booleannet3.git
+#git+https://github.com/joelostblom/booleannet3.git

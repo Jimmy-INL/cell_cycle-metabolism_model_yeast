@@ -1,5 +1,6 @@
-BooleanNet
+ply
 python-libsbml
 cobra
 matplotlib
 pandas
+#git+https://github.com/joelostblom/booleannet3.git

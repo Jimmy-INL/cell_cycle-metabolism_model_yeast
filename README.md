@@ -1,4 +1,4 @@
-[![Binder](http://beta.mybinder.org/badge.svg)](http://beta.mybinder.org:/LucasYEAST/cell_cycle-metabolism_model_yeast)
+[![Binder](http://beta.mybinder.org/badge.svg)](http://beta.mybinder.org:/v2/gh/LucasYEAST/cell_cycle-metabolism_model_yeast/master)
 
 
 # cell_cycle-metabolism_model_yeast

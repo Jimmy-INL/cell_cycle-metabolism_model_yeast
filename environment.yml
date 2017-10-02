@@ -52,4 +52,5 @@ dependencies:
   - swiglpk==1.4.4
   - sympy==1.1.1
   - tabulate==0.8.1
+prefix: C:\Anaconda2\envs\conda_bc
 

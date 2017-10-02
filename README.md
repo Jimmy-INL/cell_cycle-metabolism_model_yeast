@@ -1,4 +1,4 @@
-[![Binder](https://beta.mybinder.org/badge.svg)](null)
+[![Binder](https://beta.mybinder.org/v2/gh/LucasYEAST/cell_cycle-metabolism_model/master)](null)
 
 # cell_cycle-metabolism_model_yeast
 A multi-scale integrative model for the yeast cell division cycle and metabolism
